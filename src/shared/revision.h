@@ -1,6 +1,6 @@
-#ifndef __REVISION_H__
-#define __REVISION_H__
- #define REVISION_ID "395039dd19cca769ec42186e76f0477089cc2490"
- #define REVISION_DATE "2015-01-29"
- #define REVISION_TIME "01:02:56"
+#ifndef MANGOS_H_REVISION
+#define MANGOS_H_REVISION
+ #define REVISION_ID "*"
+ #define REVISION_DATE "*"
+ #define REVISION_TIME "*"
 #endif // __REVISION_H__
